@@ -1,0 +1,1195 @@
+body {
+	line-height: 1.5;
+}
+
+.container {
+	margin: auto;
+  max-width: none; 
+  /* above originally 600px */
+}
+
+.nav-list {
+	display: flex;
+	padding: 0;
+  list-style: none;
+}
+
+
+
+.nav-list > * {
+	margin-right: 1rem;
+}
+
+
+
+/* Stle.css */
+
+/* Nav Bar */
+
+.nav-list{
+  list-style:none;
+  padding:15px;
+  text-align: center;
+}
+
+.nav-item{
+  display: inline-block;
+  font-family: 'Raleway', sans-serif;
+margin: auto;
+  }
+
+
+
+.nav-item a{
+  text-decoration:none;
+  color:#563437;
+  font-size:23px;
+text-align: center;
+}
+
+.nav-item a:hover{
+  /* border-bottom: 1px solid #aa7d7a; */
+  color: #aa7d7a;
+}
+
+
+
+/* Top Logo */
+
+.logo{
+  height: 110px;
+  width: 110px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+
+
+.vid{
+width: 1440px;
+}
+
+.videoo{
+  width: 100%;
+}
+
+
+
+
+
+
+
+.brand{
+  font-family: 'MuseoModerno', cursive;
+color:white;
+font-size: 110px;
+}
+
+
+.explore{
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Raleway', sans-serif;
+      color: white;
+      font-size: 20px;
+ 
+  }
+  
+  
+  button{
+      background-color: transparent;
+      color: white;
+      border-width: 2px;
+      border-color: white;
+      padding: 4px 50px;
+      font-size: 20px;
+  
+  }
+  
+  button:hover{
+      cursor: pointer;
+      background-color: #aa7d7a;
+      color: white;
+      border-color: transparent;
+  }
+
+
+  .midinfo{
+      position: relative;
+      margin-top: -500px;
+text-align: center;  
+}
+
+
+
+
+
+
+
+/* Services */
+
+
+
+
+
+/* "Exclusive Services" */
+
+.exs{
+font-family: 'Raleway', sans-serif;
+font-size: 60px;
+color: #563437; 
+text-align: center;
+margin-top: 290px;
+margin-bottom: 150px;
+}
+
+
+/* Space below services grid */
+
+.serv{
+  margin-bottom: 200px;
+  }
+  
+  
+/* Actual Services Grid */
+
+  .services{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 70px;
+  }
+  
+
+/*Icons + Description */
+
+
+
+
+
+/* Class for each icon */
+.pic{
+    margin-right: 420px;
+    width: 75px;
+  }
+  
+
+
+/*Descriptions */
+
+.txt{
+  position: absolute;
+  margin-top: -85px;
+  margin-left: 100px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  color: #563437;
+}
+
+
+/* Icons */
+
+
+.ret{
+height: 80px;
+width: 100px;
+}
+
+.del{
+  height: 90px;
+  margin-left: 610px;
+
+}
+
+.free{
+  height: 90px;
+  margin-left: 1100px;
+}
+
+
+
+
+/* Popout Statement */
+
+
+.dia{
+  background: #f3eeea;
+  height: 280px;
+  margin-bottom: 230px;
+}
+
+.statement{
+  font-family: 'MuseoModerno', cursive;
+  color: #563437;
+font-size: 70px;
+margin-left: 10px;
+padding: 50px;
+
+}
+
+.last{
+  margin-top: -200px;
+  margin-left: 300px;
+}
+
+.line{
+  margin-top: -90px;
+  margin-bottom: 40px;
+  margin-left: 360px;
+}
+
+
+.founded{
+  font-family: 'Raleway', sans-serif;
+font-size: 23px;
+color: #563437;
+text-align: right;
+vertical-align: top;
+margin-top: -221px;
+margin-right: 60px;
+
+}
+
+/* Footer */
+
+
+
+
+
+/* Left Page Links */
+
+.foot-list{
+list-style:none;
+padding:15px;
+text-align: center;
+}
+
+.foot-item{
+display: inline-block;
+font-family: 'Raleway', sans-serif;
+margin-bottom: 25px;
+}
+
+
+
+.foot-item a{
+text-decoration:none;
+text-align: left;
+color: white;
+font-size:18px;
+margin: 65px;
+}
+
+.foot-item a:hover{
+/* border-bottom: 1px solid white; */
+color:#563437;
+}
+
+
+
+
+.box {
+background-color: #aa7d7a;
+/* background-color: #de795b; */
+height: 150px;
+display: grid;
+grid-template-columns: 3fr 3fr 3fr;
+/* justify-content: space-around;   */
+font-size: 10px;
+}
+
+
+
+
+
+/* Left Area */
+.b1{
+margin-left: -90px;
+margin-top: 45px;
+}
+
+
+
+/* Middle Name */
+
+
+
+.centered{
+font-family: 'MuseoModerno', cursive;
+color:white;
+font-size: 70px;
+margin-top: 20px;
+text-align: center;
+}
+
+
+
+
+/* Social Icons */
+
+.icons{
+text-align: right;
+width: 100%;
+font-size:20px;
+
+}
+
+
+.icons a{
+text-decoration:none;
+color: white;
+font-size:30px;
+margin-right: 80px;
+margin-top: 60px;
+}
+
+.icons a:hover{
+color:#563437;
+
+}
+
+/* Copyright */
+
+.symbol{
+font-family: 'Raleway', sans-serif;
+font-size: 8px;
+color: white;
+text-align: center;
+margin-right: -40px;
+margin-top: 30px;
+}
+
+
+.copc{
+text-align: center;
+}
+
+
+
+/* Newsletter */
+
+
+.joinnews{
+  font-family: 'Raleway', sans-serif;
+  font-size: 40px;
+  color: #563437;
+}
+
+
+.belowj{
+  font-family: 'Raleway', sans-serif;
+  color: #563437;
+
+}
+
+
+.addc{
+  font-size: 15px;
+  margin-left: 3px;
+}
+
+
+label{
+  font-family: 'Raleway', sans-serif;
+  font-size: 17px;
+margin-left: 600px;
+}
+
+
+/* Button used to open the contact form - fixed at the bottom of the page */
+.news-open-button {
+  background-color: #563437;
+  opacity: 20%;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  position: fixed;
+  bottom: 23px;
+  right: 28px;
+  width: 280px;
+  border-radius: 34px;
+}
+
+/* Popup form - hidden by default */
+.news-form-popup {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  right: 15px;
+  border: 3px solid #f1f1f1;
+  z-index: 9;
+}
+
+/* Form container styling */
+.news-form-container {
+  max-width: 300px;
+  padding: 10px;
+  background-color: white;
+}
+
+/* Full-width input fields */
+.news-form-container input[type=text], .news-form-container input[type=password] {
+  width: 90%;
+  padding: 15px;
+  margin: 5px 0 25px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+/* When the inputs get focus, do something */
+.news-form-container input[type=text]:focus, .news-form-container input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Styling for submit/login button */
+.news-form-container .btn {
+  background-color: #f2e0d0;
+  color: #563437;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom:10px;
+}
+
+/* Add a red background color to the cancel button */
+.news-form-container .cancel {
+  background-color: white;
+}
+
+/* Add some hover effects to buttons */
+.news-form-container .btn:hover, .news-open-button:hover {
+  opacity: 0.8;
+
+}
+
+
+
+
+
+
+
+/* Products */
+
+
+.container{
+  max-width: none;
+}
+
+
+
+.product-list{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 70px;
+  list-style: none;
+  margin-bottom: 250px;
+}
+
+
+
+.picks{
+  font-size: 40px;
+    color: #482b2e;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 80px;
+}
+
+
+.product-list {
+  list-style: none;
+}
+
+
+.picdim{
+  height: 400px;
+  width: 300px;
+}
+
+.picdim:hover{
+opacity: 80%;
+}
+
+
+
+.pursename{
+  font-family: 'Raleway', sans-serif;
+  font-size: 30px;
+}
+
+
+
+.product-price {
+  font-family: 'Raleway', sans-serif;
+  color:#563437;
+  font-size: 23px;
+}
+
+.pdesc{
+  font-family: 'Raleway', sans-serif;
+font-size: 17px;
+margin-bottom: 80px;
+}
+
+
+
+
+
+
+/* Media Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+
+/* Iphone */
+
+@media screen and (max-width:420px) { 
+
+
+  .nav-item a{
+    font-size:20px;
+  }
+
+
+
+  .logo{
+margin-right: auto;
+margin-left: auto;
+height: 60px;
+    width: 60px;
+  }
+  
+  
+
+  
+  .vid{
+    width: 405px;
+    margin-bottom: -30px;
+  }
+
+  
+
+  .brand{
+  font-size: 30px;
+  margin-top: 380px;
+  }
+  
+  
+    
+    
+    button{
+        border-width: 1px;
+        border-color: white;
+        padding: 2px 20px;
+        font-size: 7px;    
+    }
+
+
+
+    .exs{
+        font-size: 25px;
+        margin-top: 110px;
+        margin-left: 20px;
+        margin-bottom: 70px;
+        }
+        
+        
+        /* Space below services grid */
+        
+        .serv{
+          margin-bottom: 80px;
+          }
+          
+          
+        /* Actual Services Grid */
+        
+          .services{
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            margin-left: 70px;
+          }
+          
+        
+        /*Icons + Description */
+        
+        
+        
+        
+        
+        /* Class for each icon */
+        .pic{
+            margin-right: 140px;
+            margin-left: -40px;
+            width: 25px;
+          }
+          
+        
+        
+        /*Descriptions */
+        
+        .txt{
+          margin-top: -30px;
+          margin-left: -66px;
+          font-family: 'Raleway', sans-serif;
+          font-size: 7px;
+          color: #563437;
+        }
+        
+        
+        /* Icons */
+        
+        
+        .ret{
+        height: 20px;
+        width: 30px;
+        }
+        
+        .del{
+          height: 90px;
+          margin-left: 50px;
+        
+        }
+        
+        .free{
+          height: 90px;
+          margin-left: 180px;
+        }
+
+
+
+        .dia{
+            background: #f3eeea;
+            height: 120px;
+            width: 405px;
+            margin-bottom: 100px;
+          }
+          
+          .statement{
+          font-size: 28px;
+          margin-top: 280px;
+          margin-left: 30px;
+          
+          }
+          
+          .last{
+            margin-top: -200px;
+            margin-left: -40px;
+          }
+          
+          .line{
+            margin-top: -30px;
+            margin-bottom: 40px;
+            margin-left: 100px;
+          }
+          
+          
+          .founded{
+          font-size: 8px;
+          margin-top: -113px;
+          margin-right: 10px;
+          
+          }
+          
+          /* Footer */
+          
+          
+       
+          
+          
+          
+          
+          .foot-item a{
+          text-decoration:none;
+          text-align: left;
+          color: white;
+          font-size:10px;
+          margin-left: 110px;
+          }
+          
+          .foot-item a:hover{
+          /* border-bottom: 1px solid white; */
+          color:#563437;
+          }
+          
+          
+          
+          
+          .box {
+          background-color: #aa7d7a;
+          /* background-color: #de795b; */
+          height: 60px;
+          width: 405px;
+          display: grid;
+          grid-template-columns: 3fr 3fr 3fr;
+          /* justify-content: space-around;   */
+          font-size: 10px;
+          }
+          
+          
+
+        
+          
+          
+          
+          /* Left Area */
+          .b1{
+          margin-left: -90px;
+          margin-top: 0px;
+          }
+          
+          
+          
+          /* Middle Name */
+          
+          
+          
+          .centered{
+          font-size: 40px;
+          margin-left: -40px;
+          margin-top: 0px;
+          text-align: center;
+          }
+          
+          
+          
+          
+          /* Social Icons */
+          
+          .icons{
+          text-align: right;
+          width: 100%;
+          font-size:10px;
+          
+          }
+          
+          
+          .icons a{
+          text-decoration:none;
+          color: white;
+          font-size:10px;
+          margin-right: 20px;
+          margin-top: 26px;
+          }
+          
+         
+          
+          /* Copyright */
+          
+          .symbol{
+          font-size: 3px;
+          text-align: center;
+          margin-right: -500px;
+          margin-top: -73px;
+          }
+          
+          
+          .copc{
+          text-align: center;
+          }
+
+
+
+
+
+          /* PRODUCTS PAGE MOBILE VIEW!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+          
+
+
+          .container{
+            max-width: none;
+          }
+          
+          
+          
+          .product-list{
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-gap: 10px;
+            list-style: none;
+            margin-bottom: 30px;
+          }
+          
+          
+          
+          .picks{
+            font-size: 30px;
+              margin-bottom: 100px;
+          }
+          
+          
+          
+          .picdim{
+            height: 125px;
+            width: 100px;
+          }
+          
+          .picdim:hover{
+          opacity: 80%;
+          }
+          
+          
+          
+          .pursename{
+            font-size: 14px;
+          }
+          
+          
+          
+          .product-price {
+            font-size: 12px;
+          }
+          
+          .pdesc{
+          font-size: 6px;
+          margin-bottom: 60px;
+          }
+        
+
+
+}
+
+/* end of mobile media q */
+
+
+/* Media Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+
+/* TABLET */
+
+@media screen and (max-width:801px) { 
+
+
+  .nav-item a{
+    font-size:24px;
+  }
+
+
+
+  .logo{
+margin-right: auto;
+margin-left: auto;
+height: 80px;
+width: 80px;
+  }
+  
+  
+
+  
+  .vid{
+    width: 786px;
+    margin-bottom: -30px;
+  }
+
+  
+
+  .brand{
+  font-size: 60px;
+  margin-top: 330px;
+  }
+  
+  
+    
+    
+    button{
+        border-width: 1px;
+        padding: 2px 24px;
+        font-size: 14px;    
+    }
+
+
+
+    .exs{
+        font-size: 35px;
+        margin-top: 110px;
+        margin-left: 20px;
+        margin-bottom: 70px;
+        }
+        
+        
+        /* Space below services grid */
+        
+        .serv{
+          margin-bottom: 80px;
+          }
+          
+          
+        /* Actual Services Grid */
+        
+          .services{
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            margin-left: 90px;
+          }
+          
+        
+        /*Icons + Description */
+        
+        
+        
+        
+        
+        /* Class for each icon */
+        .pic{
+            margin-right: 210px;
+            margin-left: -20px;
+            width: 58px;
+          }
+          
+        
+        
+        /*Descriptions */
+        
+        .txt{
+          margin-top: -60px;
+          margin-left: -10px;
+          font-size: 12px;
+        }
+        
+        
+        /* Icons */
+        
+        
+        .ret{
+        height: 60px;
+        width: 70px;
+        }
+        
+        .del{
+          height: 130px;
+          margin-left: 230px;
+        
+        }
+        
+        .free{
+          height: 90px;
+          margin-left: 480px;
+        }
+
+
+
+        .dia{
+            background: #f3eeea;
+            height: 120px;
+            width: 786px;
+            margin-bottom: 100px;
+          }
+          
+          .statement{
+          font-size: 36px;
+          margin-top: 60px;
+          margin-left: 30px;
+          
+          }
+          
+          .last{
+            margin-top: -220px;
+            margin-left: -40px;
+          }
+          
+          .line{
+            margin-top: -50px;
+            margin-bottom: 40px;
+            margin-left: 150px;
+          }
+          
+          
+          .founded{
+          font-size: 11px;
+          margin-top: -118px;
+          margin-right: 10px;
+          
+          }
+          
+          /* Footer */
+          
+          
+       
+          
+          
+          
+          
+          .foot-item a{
+          font-size:12px;
+          margin-left: 110px;
+          }
+          
+          .foot-item a:hover{
+          /* border-bottom: 1px solid white; */
+          color:#563437;
+          }
+          
+          
+          
+          
+          .box {
+          height: 60px;
+          width: 786px;
+          font-size: 10px;
+          }
+          
+        
+          
+          
+          /* Left Area */
+          .b1{
+          margin-left: -90px;
+          margin-top: 0px;
+          }
+          
+          
+          
+          /* Middle Name */
+          
+          
+          
+          .centered{
+          font-size: 46px;
+          margin-left: 10px;
+          margin-top: -4px;
+          text-align: center;
+          }
+          
+          
+          
+          
+          /* Social Icons */
+          
+        
+          
+          .icons a{
+          font-size:18px;
+          margin-right: 50px;
+          margin-top: 23px;
+          }
+          
+         
+          
+          /* Copyright */
+          
+          .symbol{
+          font-size: 5px;
+          text-align: center;
+          margin-right: -1030px;
+          margin-top: -85px;
+          }
+          
+          
+          .copc{
+          text-align: center;
+          }
+
+
+
+
+
+          /* PRODUCTS PAGE TABLET VIEW!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+          
+
+
+          .container{
+            max-width: none;
+          }
+          
+          
+          
+          .product-list{
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-gap: 10px;
+            list-style: none;
+            margin-bottom: 30px;
+          }
+          
+          
+          
+          .picks{
+            font-size: 40px;
+              margin-bottom: 100px;
+          }
+          
+          
+          
+          .picdim{
+            height: 275px;
+            width: 200px;
+          }
+          
+          .picdim:hover{
+          opacity: 80%;
+          }
+          
+          
+          
+          .pursename{
+            font-size: 14px;
+          }
+          
+          
+          
+          .product-price {
+            font-size: 12px;
+          }
+          
+          .pdesc{
+          font-size: 6px;
+          margin-bottom: 60px;
+          }
+          
+          
+
+
+
+
+/* Newsletter */
+
+
+      
+          label{
+            font-family: 'Raleway', sans-serif;
+            font-size: 17px;
+          }
+          
+
+          
+          /* Button used to open the contact form - fixed at the bottom of the page */
+          .news-open-button {
+    margin-right: 490px;
+            width: 230px;
+          }
+          
+          /* Popup form - hidden by default */
+          .news-form-popup {
+            margin-right: 490px;
+            width: 230px;
+          
+          }
+          
+          /* Form container styling */
+          .news-form-container {
+            margin-right: 490px;
+            width: 230px;
+            max-width: 205px;
+    
+          }
+          
+         
+  
+
+
+
+
+
+
+
+
+}
+
+
+  
+  
+  
+

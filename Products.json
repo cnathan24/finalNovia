@@ -1,0 +1,101 @@
+
+[
+
+    {
+    "img" : "https://images.unsplash.com/photo-1585488574745-5186ef0f1ddf?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=668&q=80",    
+    "name":"Minte'd",
+    "price":"$575",
+    "description": "Neutral dominant, with a pop of mint green",
+    "color": ["earth"]
+    },
+    
+    {
+    "img":"https://images.unsplash.com/photo-1575032617751-6ddec2089882?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2819&q=80",
+    "name":"Plumerelle",
+    "price":"$825",
+    "description": "Deep toned crocodile leather",
+    "color": ["deep"]
+    },
+    
+    {
+    "img":"https://images.unsplash.com/photo-1585488433867-8eb24f59723c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80",
+    "name":"Beneddicted",
+    "price":"$311",
+    "description": "Cream & white paired with zesty orange buckle",
+    "color": ["earth"]
+    },
+    
+    {
+    "img":"https://images.unsplash.com/photo-1531542373610-8642f4bd797f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80",
+    "name":"Aster",
+    "price":"$745",
+    "description": "Pea green embroidered linen",
+    "color": ["earth"]
+    },
+    
+    {
+    "img":"https://images.unsplash.com/photo-1598532163257-ae3c6b2524b6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2800&q=80",
+    "name":"Rubix",
+    "price":"$375",
+    "description": "Chestnut textured leather",
+    "color": ["brown"]
+    },
+    
+    {
+    "img":"https://images.unsplash.com/photo-1585488433921-f2ce041b2d64?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80",
+    "name":"Swank",
+    "price":"$504",
+    "description": "Blackout crossbody & gold attachments",
+    "color": ["deep"]
+    },
+    
+    
+    {
+    "img":"https://images.unsplash.com/photo-1560891958-68bb1fe7fb78?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=802&q=80",
+    "name":"Caspian",
+    "price":"$210",
+    "description": "Nautical inspired square leather",
+    "color": ["earth"]
+    },
+    
+    {
+    "img":"https://images.unsplash.com/photo-1585488433963-2e35fb083e52?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80",
+    "name":"Joystick",
+    "price":"$863",
+    "description": "Neon glossy fabric with chainlink coin purse",
+    "color": ["earth"]
+    },
+    
+    {
+    "img":"https://images.unsplash.com/photo-1585488433862-b692398b2bfa?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80",
+    "name":"Blushed",
+    "price":"$695",
+    "description": "Handled crossbody with multicolored accent",
+    "color": ["pink"]
+    },
+    
+    {
+    "img":"https://images.unsplash.com/photo-1575890318083-4d7c6ebcd60a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2882&q=80",
+    "name":"Sienna",
+    "price":"$444",
+    "description": "Earth toned, including rose gold hardware",
+    "color": ["brown"]
+    },
+    
+    {
+    "img":"https://images.unsplash.com/photo-1585488574812-4860e867b31f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=678&q=80",
+    "name":"Urbane",
+    "price":"$987",
+    "description": "Textured mustard yellow, held by black & gold links",
+    "color": ["earth"]
+    },
+    
+    {
+    "img":"https://images.unsplash.com/photo-1560155136-ca9fd0b25a4c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "name":"Outskirt",
+    "price":"$763",
+    "description": "Hand painted bubblegum square",
+    "color": ["pink"]
+    }
+    
+    ]
